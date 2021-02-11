@@ -1,0 +1,42 @@
+{
+  "amount": 490.00,
+  "countGoods": 6,
+  "contents": [
+    {
+      "id_product": 123,
+      "productName": "Футболка",
+      "productPrice": 20.00,
+      "quantity": 5
+    },
+    {
+      "id_product": 456,
+      "productName": "Брюки",
+      "productPrice": 60.00,
+      "quantity": 7
+    },
+    {
+      "id_product": 789,
+      "productName": "Рюкзак",
+      "productPrice": 110.00,
+      "quantity": 9
+    },
+    {
+      "id_product": 987,
+      "productName": "Футболка",
+      "productPrice": 20.00,
+      "quantity": 5
+    },
+    {
+      "id_product": 654,
+      "productName": "Куртка",
+      "productPrice": 80.00,
+      "quantity": 7
+    },
+    {
+      "id_product": 321,
+      "productName": "Кроссовки",
+      "productPrice": 110.00,
+      "quantity": 4
+    }
+  ]
+}
